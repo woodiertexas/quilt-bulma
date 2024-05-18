@@ -8,6 +8,8 @@ $role-modifier-amount-tertiary: 40%;
 @import "../../node_modules/bulma/sass/utilities/functions";
 @import "../common/colours";
 
+$warning: #e7b416;
+
 $primary-lighter: bulmaLighten($primary, 41%);
 $dark: $primary-lighter;
 $white: #fefcff;
